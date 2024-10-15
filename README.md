@@ -1,3 +1,3 @@
 # Penambangan-Data
-Nama : Mehta Pradnyatama
+Nama : Mehta Pradnyatama <br />
 NIM : A11.2022.14183
